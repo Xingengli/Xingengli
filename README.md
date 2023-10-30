@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm XingengLi</h1>
-<h3 align="center">A database analysis for ZumbaTech in NewZealand</h3>
+<h3 align="center">A full time Wintec student studying IT</h3>
 
-- 🔭 I’m currently working on **INFO602-Assignment Zumba App**
+- 🔭 I have good analytical skills and am passionate about software development.
 
 - 🌱 I’m currently learning **Business, Interpersonal Communications and Technical Writing**
 
-- 📫 How to reach me **812395401@qq.com**
+- 📫 How to reach me **xingengli9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
